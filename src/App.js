@@ -1,5 +1,3 @@
-
-
 import Accordion from './components';
 
 function App() {
